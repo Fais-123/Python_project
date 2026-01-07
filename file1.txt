@@ -1,0 +1,5 @@
+A computer is an electronic device that processes data, following instructions from software to perform tasks like calculations, data storage, and information display, combining hardware (physical parts like CPU, memory, screen) and software (programs) to handle numbers, text, images, and sound for work, entertainment, and communication. Computers range from tiny smartphones to massive supercomputers, fundamentally working with binary code (0s and 1s). 
+Key Components & Functions
+Hardware: The physical parts, including the Processor (CPU) for processing, Memory (RAM) for temporary storage, Storage (HDD/SSD) for long-term data, and Input/Output devices (keyboard, mouse, monitor, speakers).
+Software: The set of instructions (programs, apps, operating systems like Windows/macOS) that tell the hardware what to do.
+Data: Raw information (numbers, text, images) that computers manipulate, process, and store. 
